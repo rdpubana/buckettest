@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "'": "file:appium/universal-xml-plugin@1.0.22'",
+    "spec": "^1.0.1"
+  }
+}
